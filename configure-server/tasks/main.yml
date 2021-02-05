@@ -1,0 +1,3 @@
+---
+- name: "CONF | Création de l'utilisateur"
+  include_tasks: create-user.yml
